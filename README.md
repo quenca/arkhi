@@ -1,3 +1,6 @@
+Projeto para visualizar os livros contidos em uma lista e edita-los 
+
+
 # Arkhi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
