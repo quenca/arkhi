@@ -1,8 +1,14 @@
 <div class="row">
     <div class="col s6">
-        <p>
-            Lista de Livros
-        </p>
+      
+        <nav>
+            <div class="nav-wrapper">
+                <a href="#" class="brand-logo">Lista de Livros</a>
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                </ul>
+            </div>
+        </nav>
+      
         <div class="collection">
             <a class="collection-item" *ngFor="let livro of livros" [routerLink]="['livros',livro.id]">{{ livro.titulo }}</a>
 
