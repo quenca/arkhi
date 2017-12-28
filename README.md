@@ -1,5 +1,6 @@
 Projeto para visualizar os livros contidos em uma lista e edita-los 
 
+Algumas funcionalidades nao foram concluidas, como inclusão, exclusão e a regra de negocio que consiste expor o preço em extenso  
 
 # Arkhi
 
